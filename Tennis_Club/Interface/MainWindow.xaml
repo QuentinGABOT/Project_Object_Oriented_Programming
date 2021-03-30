@@ -1,0 +1,21 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Interface"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>        
+        <Rectangle Width="800" Height="420">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="C:\Users\Willi\Desktop\roland garros.jpg"  />
+            </Rectangle.Fill>
+        </Rectangle>
+        <Button Content="Creer" HorizontalAlignment="Center" Height="38" Margin="340,195,320,186" VerticalAlignment="Center" Width="132"/>
+        <Label Content="Commencez par créer votre club !" HorizontalAlignment="Left" Height="46" Margin="309,144,0,0" VerticalAlignment="Top" Width="206" FontSize="13"/>
+        <Label Content="BIENVENUE DANS LA GESTION DE VOTRE CLUB &#xD;&#xA;" HorizontalAlignment="Center" Height="66" Margin="182,73,170,280" VerticalAlignment="Center" Width="440" FontSize="20"/>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\Willi\Desktop\ESILV\A3\POO\PROBLEME FINAL\PROBLEME FINAL\Interface\bin\Debug\Interface.exe.config
+C:\Users\Willi\Desktop\ESILV\A3\POO\PROBLEME FINAL\PROBLEME FINAL\Interface\bin\Debug\Interface.exe
+C:\Users\Willi\Desktop\ESILV\A3\POO\PROBLEME FINAL\PROBLEME FINAL\Interface\bin\Debug\Interface.pdb
+C:\Users\Willi\Desktop\ESILV\A3\POO\PROBLEME FINAL\PROBLEME FINAL\Interface\bin\Debug\Interface.xml
+C:\Users\Willi\Desktop\ESILV\A3\POO\PROBLEME FINAL\PROBLEME FINAL\Interface\obj\Debug\Interface.vbprojAssemblyReference.cache
+C:\Users\Willi\Desktop\ESILV\A3\POO\PROBLEME FINAL\PROBLEME FINAL\Interface\obj\Debug\MainWindow.g.vb
+C:\Users\Willi\Desktop\ESILV\A3\POO\PROBLEME FINAL\PROBLEME FINAL\Interface\obj\Debug\Application.g.vb
+C:\Users\Willi\Desktop\ESILV\A3\POO\PROBLEME FINAL\PROBLEME FINAL\Interface\obj\Debug\Interface_MarkupCompile.cache
+C:\Users\Willi\Desktop\ESILV\A3\POO\PROBLEME FINAL\PROBLEME FINAL\Interface\obj\Debug\Interface_MarkupCompile.lref
+C:\Users\Willi\Desktop\ESILV\A3\POO\PROBLEME FINAL\PROBLEME FINAL\Interface\obj\Debug\MainWindow.baml
+C:\Users\Willi\Desktop\ESILV\A3\POO\PROBLEME FINAL\PROBLEME FINAL\Interface\obj\Debug\Interface.g.resources
+C:\Users\Willi\Desktop\ESILV\A3\POO\PROBLEME FINAL\PROBLEME FINAL\Interface\obj\Debug\Interface.Resources.resources
+C:\Users\Willi\Desktop\ESILV\A3\POO\PROBLEME FINAL\PROBLEME FINAL\Interface\obj\Debug\Interface.vbproj.GenerateResource.cache
+C:\Users\Willi\Desktop\ESILV\A3\POO\PROBLEME FINAL\PROBLEME FINAL\Interface\obj\Debug\Interface.exe
+C:\Users\Willi\Desktop\ESILV\A3\POO\PROBLEME FINAL\PROBLEME FINAL\Interface\obj\Debug\Interface.xml
+C:\Users\Willi\Desktop\ESILV\A3\POO\PROBLEME FINAL\PROBLEME FINAL\Interface\obj\Debug\Interface.pdb
